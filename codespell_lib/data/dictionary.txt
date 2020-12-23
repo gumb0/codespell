@@ -19790,6 +19790,7 @@ otherwhere->elsewhere
 otherwhile->otherwise
 otherwhise->otherwise
 otherwice->otherwise
+ohterwide->otherwise
 otherwis->otherwise
 otherwize->otherwise
 otherwordly->otherworldly
@@ -28868,6 +28869,7 @@ undecideable->undecidable
 undefied->undefined
 undefien->undefine
 undefiend->undefined
+underfiend->undefined
 undefinied->undefined
 undeflow->underflow
 undeflows->underflows
